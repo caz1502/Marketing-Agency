@@ -2,7 +2,7 @@
 
 The conents of this assignment are refactored HTML and CSS code. The original code was provided by the Bootcamp along with a User Story and Acceptance Criteria.
 
-:link: [Horiseon Website](https://username and bootcamp file enter here.github.io/bootcamp-code-refactor/)
+:link: [Horiseon Website](https://caz1502.github.io/Marketing-Agency/)
 
 ## User Story
 
